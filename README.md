@@ -1,5 +1,3 @@
 # hello-world
 
-Test
-
-My name is Wil
+My name is Will
